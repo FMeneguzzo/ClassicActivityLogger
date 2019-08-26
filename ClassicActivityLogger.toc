@@ -1,0 +1,7 @@
+## Interface: 11302
+## Author: FMeneguzzo
+## Title: ClassicActivityLogger
+## Notes: Stores a log of World of Warcraft: Classic activities in the saved variables file
+## SavedVariables: ClassicActivityLogger
+
+ClassicActivityLogger.lua
